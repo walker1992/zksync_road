@@ -1,1 +1,1 @@
-![commitBlock](/photo/commitBlock.jpeg)
+![commitBlock](https://github.com/walker1992/zksync_road/blob/master/photos/commitBlock.jpeg)
