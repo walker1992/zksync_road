@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="be4f7eba-1697-468d-84ff-f114e42445c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commitBlock.md" beforeDir="false" afterPath="$PROJECT_DIR$/commitBlock.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photos/commitBlock.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/commitBlock.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +86,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="commitBlock" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1280" y="287" key="CommitChangelistDialog2" timestamp="1607327262115">
+    <state x="-1280" y="287" key="CommitChangelistDialog2" timestamp="1607327983187">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="-1280" y="287" key="CommitChangelistDialog2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327262115" />
-    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2" timestamp="1607327264089">
+    <state x="-1280" y="287" key="CommitChangelistDialog2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327983187" />
+    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2" timestamp="1607327985131">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327264088" />
+    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327985131" />
   </component>
 </project>
