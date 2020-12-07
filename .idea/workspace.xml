@@ -27,7 +27,9 @@
   </component>
   <component name="ProjectId" id="1lJpvLLXGjocZsugHdf6lq34gUK" />
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -69,5 +71,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2" timestamp="1607327240879">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327240879" />
   </component>
 </project>
