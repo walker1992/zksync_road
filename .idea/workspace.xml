@@ -9,8 +9,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be4f7eba-1697-468d-84ff-f114e42445c1" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="be4f7eba-1697-468d-84ff-f114e42445c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commitBlock.md" beforeDir="false" afterPath="$PROJECT_DIR$/commitBlock.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photos/commitBlock.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/commitBlock.jpg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,21 +29,27 @@
     <option name="directoryName" value="XxdYHgsr" />
   </component>
   <component name="ProjectId" id="1lJpvLLXGjocZsugHdf6lq34gUK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -66,16 +75,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commitBlock" />
+    <option name="LAST_COMMIT_MESSAGE" value="commitBlock" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2" timestamp="1607327240879">
+    <state x="-1280" y="287" key="CommitChangelistDialog2" timestamp="1607327262115">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327240879" />
+    <state x="-1280" y="287" key="CommitChangelistDialog2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327262115" />
+    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2" timestamp="1607327264089">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327264088" />
   </component>
 </project>

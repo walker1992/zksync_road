@@ -1,1 +1,1 @@
-![commitBlock](photos/commitBlock.jpg)
+![commitBlock](images/commitBlock.jpg)
