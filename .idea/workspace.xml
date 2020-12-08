@@ -11,6 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="be4f7eba-1697-468d-84ff-f114e42445c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commitBlock.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/commitBlock.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +41,15 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunDashboard">
+    <option name="ruleStates">
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
       </list>
     </option>
   </component>
@@ -62,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607325277529</updated>
       <workItem from="1607325278655" duration="50000" />
+      <workItem from="1607327250045" duration="299000" />
     </task>
     <servers />
   </component>
@@ -86,13 +89,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="commitBlock" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1280" y="287" key="CommitChangelistDialog2" timestamp="1607327983187">
+    <state x="-1280" y="287" key="CommitChangelistDialog2" timestamp="1607328322273">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="-1280" y="287" key="CommitChangelistDialog2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327983187" />
-    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2" timestamp="1607327985131">
+    <state x="-1280" y="287" key="CommitChangelistDialog2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607328322273" />
+    <state x="-1546" y="266" key="DiffContextDialog" timestamp="1607328315580">
       <screen x="-2560" y="23" width="2560" height="1417" />
     </state>
-    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607327985131" />
+    <state x="-1546" y="266" key="DiffContextDialog/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607328315580" />
+    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2" timestamp="1607328324098">
+      <screen x="-2560" y="23" width="2560" height="1417" />
+    </state>
+    <state x="-1274" y="427" key="Vcs.Push.Dialog.v2/-2560.23.2560.1417/0.23.1680.1027@-2560.23.2560.1417" timestamp="1607328324098" />
   </component>
 </project>
