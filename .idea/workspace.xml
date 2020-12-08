@@ -11,8 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="be4f7eba-1697-468d-84ff-f114e42445c1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commitBlock.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/commitBlock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zksync.md" beforeDir="false" afterPath="$PROJECT_DIR$/zksync.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +63,23 @@
       <option name="presentableId" value="Default" />
       <updated>1607325277529</updated>
       <workItem from="1607325278655" duration="50000" />
-      <workItem from="1607327250045" duration="299000" />
+      <workItem from="1607327250045" duration="671000" />
     </task>
+    <task id="LOCAL-00001" summary="commitBlock">
+      <created>1607412057406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607412057406</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commitBlock">
+      <created>1607412199425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607412199425</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

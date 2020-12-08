@@ -4,7 +4,7 @@ commit 899ca93052420c33583755cd2162143f461f36b3
 
 需要注意的是，阅读完整源代码需要查看dev分支，master分支是提供编译后的各种执行程序。在以下安装时，请科学上网。
 
-## 环境准备 [zksync](https://github.com/matter-labs/zksync)/[docs](https://github.com/matter-labs/zksync/tree/master/docs)/**setup-dev.md**  
+## 环境准备 [zksync/docs/setup-dev.md](https://github.com/matter-labs/zksync/tree/master/docs/setup-dev.md)
 
 ### 1、安装docker
 ```brew cask install docker```
@@ -38,7 +38,7 @@ export PATH=$ZKSYNC_HOME/bin:$PATH
 ```
 到这里，环境依赖已经完成了
 
-##  启动zksync    [zksync](https://github.com/matter-labs/zksync)/[docs](https://github.com/matter-labs/zksync/tree/master/docs)/**launch.md**
+##  启动zksync    [zksync/docs/launch.md](https://github.com/matter-labs/zksync/tree/master/docs//launch.md)
 
 ### 1、设置本地运行环境
 ```
