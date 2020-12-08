@@ -6,32 +6,32 @@ commit 899ca93052420c33583755cd2162143f461f36b3
 
 ## 环境准备 [zksync](https://github.com/matter-labs/zksync)/[docs](https://github.com/matter-labs/zksync/tree/master/docs)/**setup-dev.md**  
 
-###1、安装docker
+### 1、安装docker
 ```brew cask install docker```
-###2、安装Node & Yarn
+### 2、安装Node & Yarn
 ```brew install nodejs yarn```
-###3、Axel
+### 3、Axel
 ```brew install axel```
 axel版本有差异，请采用axel 2.17.X，ubuntu、centos7、8环境，axel2.4、2.5版本均有问题，主要体现在执行：cargo install diesel_cli --no-default-features --features postgres无法通过。
-###4、Rust
+### 4、Rust
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 rustc --version
 rustc 1.46.0 (04488afe3 2020-08-24)
 ```
-###5、postgresql
+### 5、postgresql
 ```brew install postgresql```
-###6、Diesel cli
+### 6、Diesel cli
 ```cargo install diesel_cli --no-default-features --features postgres```
 过程比较慢，耐心等待。。。
-###7、sqlx cli
+### 7、sqlx cli
 ```cargo install sqlx-cli```
-###8、solc
+### 8、solc
 必须是v0.5.X
 ```brew install solidity@5```
-###9、下载zksync
+### 9、下载zksync
 ```git clone https://github.com/matter-labs/zksync.git```
-###10、编辑~/. bash_profile:
+### 10、编辑~/. bash_profile:
 ```
 export ZKSYNC_HOME=/path/to/zksync
 export PATH=$ZKSYNC_HOME/bin:$PATH
